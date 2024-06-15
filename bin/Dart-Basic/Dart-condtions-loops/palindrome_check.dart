@@ -1,0 +1,1 @@
+/*Check if a string reads the same forward and backward */

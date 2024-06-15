@@ -1,0 +1,1 @@
+/*Write a Dart function that takes a list of strings as input and groups the anagrams together. Anagrams are words that have the same characters but in a different order. */

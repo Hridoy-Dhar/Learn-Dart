@@ -1,0 +1,1 @@
+/*Evaluate the strength of a password based on length and character types */

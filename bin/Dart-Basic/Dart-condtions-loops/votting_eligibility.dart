@@ -1,0 +1,1 @@
+/*Check if a person is eligible to vote based on age */
